@@ -26,8 +26,8 @@ public class PalindromeCheckerApp {
                     // Original String
                     String original = "madam";
 
-                    // Variable to store reversed string
-                    String reversed = "";
+                    // Original String
+                    String original = "madam";
 
                     // Loop (for loop) to reverse the string
                     for (int i = original.length() - 1; i >= 0; i--) {
